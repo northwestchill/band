@@ -51,22 +51,26 @@ googleAnalytics = "UA-146484118-1"
     url = "posts/"
     weight = 10
 
-  [[menu.main]]
+  [[menu.about]]
     name = "About"
     url = "about/"
     weight = 20
+    parent = "main"
   
-  [[menu.main]]
+  [[menu.calendar]]
     name = "Calendar"
     url = "calendar/"
     weight = 30
+    parent = "main"
   
-  [[menu.main]]
+  [[menu.store]]
     name = "Store"
     url = "store/"
     weight = 40
+    parent = "main"
   
-  [[menu.main]]
+  [[menu.links]]
     name = "Links"
     url = "links/"
     weight = 40
+    parent = "main"
