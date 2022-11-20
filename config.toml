@@ -48,29 +48,25 @@ googleAnalytics = "UA-146484118-1"
 
   [[menu.main]]
     name = "Events"
-    url = "posts/"
+    url = "/posts/"
     weight = 10
 
-  [[menu.about]]
+  [[menu.main]]
     name = "About"
-    url = "about/"
+    url = "/about/"
     weight = 20
-    parent = "main"
   
-  [[menu.calendar]]
+  [[menu.main]]
     name = "Calendar"
-    url = "calendar/"
+    url = "/calendar/"
     weight = 30
-    parent = "main"
   
-  [[menu.store]]
+  [[menu.main]]
     name = "Store"
-    url = "store/"
+    url = "/store/"
     weight = 40
-    parent = "main"
   
-  [[menu.links]]
+  [[menu.main]]
     name = "Links"
-    url = "links/"
-    weight = 40
-    parent = "main"
+    url = "/links/"
+    weight = 50
