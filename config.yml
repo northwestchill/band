@@ -1,0 +1,43 @@
+baseURL: 'https://northwestchill.github.io/band/'
+languageCode: en-us
+title: Northwest Chill Band
+theme: potato-dark
+rssLimit: 10
+copyright: >-
+  This work is licensed under a Creative Commons Attribution-NonCommercial 4.0
+  International License.
+enableEmoji: true
+googleAnalytics: UA-146484118-1
+author:
+  name: Northwest Chill Band
+blackfriday:
+  hrefTargetBlank: true
+taxonomies:
+  tag: tags
+params:
+  dateform: 'Jan 2, 2006'
+  dateformShort: Jan 2
+  dateformNum: '2006-01-02'
+  dateformNumTime: '2006-01-02 15:04 -0700'
+  themeColor: '#494f5c'
+  homeSubtitle: ''
+  footerCopyright: ' &#183;'
+  bgImg: images/dadlan-fall-2018-oldphoto.jpg
+  justifyContent: false
+menu:
+  main:
+    - name: Events
+      url: /posts/
+      weight: 10
+    - name: About
+      url: /about/
+      weight: 20
+    - name: Calendar
+      url: /calendar/
+      weight: 30
+    - name: Store
+      url: /store/
+      weight: 40
+    - name: Links
+      url: /links/
+      weight: 50
