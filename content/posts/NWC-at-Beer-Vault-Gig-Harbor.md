@@ -1,9 +1,9 @@
 ---
 title: "NWC at Beer Vault Gig Harbor"
 date: 2023-03-30T14:59:56-07:00
-images: /static/images/nwcbandpic.jpg
+images: images/nwcbandpic.jpg
 resources:
-    - src: /static/images/nwcbandpic.jpg
+    - src: images/nwcbandpic.jpg
       title: "A band picture"
 draft: false
 ---
