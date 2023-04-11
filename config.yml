@@ -1,6 +1,8 @@
-baseURL: 'https://northwestchill.github.io/band/'
-languageCode: 'en-us'
+baseURL: https://northwestchill.github.io/band/
+languageCode: en-us
 title: Northwest Chill
+theme: hugo-theme-massively
+
 
 markup:
   goldmark:
