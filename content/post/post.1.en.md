@@ -1,8 +1,8 @@
 +++
-title = 'Primis eget imperdiet lorem'
+title = 'NWC @ The Eagles Club in Gig Harbor'
 slug = 'post1'
-image = 'images/pic03.jpg'
-description = 'Example of post with missing date property but with pic.'
+image = 'images/bg.jpg'
+description = 'Come join us at the Eagles Club.'
 disableComments = true
 +++
 Example of post with missing date property but with pic.
