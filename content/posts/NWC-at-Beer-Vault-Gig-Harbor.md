@@ -8,5 +8,5 @@ resources:
 draft: false
 ---
 
-{{ $image := .Resources.GetMatch "/static/images/nwcbandpic.jpg" }}
+{{ $image := .Resources.GetMatch "images/nwcbandpic.jpg" }}
 <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">

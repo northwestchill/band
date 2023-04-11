@@ -22,7 +22,7 @@ params:
   themeColor: '#494f5c'
   homeSubtitle: ''
   footerCopyright: ' &#183;'
-  bgImg: images/dadlan-fall-2018-oldphoto.jpg
+  bgImg: images/nwcbandpic.jpg
   justifyContent: false
 menu:
   main:
