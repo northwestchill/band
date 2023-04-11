@@ -1,10 +1,10 @@
 +++
 title = 'NWC @ The Eagles Club in Gig Harbor'
 slug = 'post1'
-image = 'images/bg.jpg'
+image = '/images/bg.jpg'
 description = 'Come join us at the Eagles Club.'
 disableComments = true
 +++
-Example of post with missing date property but with pic.
+Northwest Chill will be at the Eagles Club in Gig Harbor on April 13 2023. 
 
-![img](/images/pic03.jpg)
+![img](/images/bg.jpg)
