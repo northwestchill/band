@@ -1,6 +1,6 @@
 +++
 title = "NWC @ The Beer Vault in Gig Harbor for St. Patrick's Day."
-slug = 'post1'
+slug = 'post2'
 image = 'images/20230317.jpg'
 description = "Come joing Northwest Chill at The Beer Vault in Gig Harbor for St. Patrick's Day."
 disableComments = true
