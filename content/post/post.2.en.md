@@ -7,4 +7,4 @@ disableComments = true
 +++
 Northwest Chill will be at The Beer Vault in Gig Harbor for St. Patrick's Day from 7-9pm. 
 
-![img](images/20230317.jpg)
+<!-- ![img](images/20230317.jpg) -->

@@ -7,4 +7,4 @@ disableComments = true
 +++
 Northwest Chill will be at the Eagles Club in Gig Harbor on April 13 2023 from 7-9pm. 
 
-![img](images/bg.jpg)
+<!-- ![img](images/bg.jpg) -->
