@@ -1,5 +1,5 @@
 items:
 - title: 'Generic Page'
   url: '/generic-page'
-- events: 'Events'
+- title: 'Events'
   url: '/post-list'
