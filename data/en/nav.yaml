@@ -2,4 +2,4 @@ items:
 - title: 'Generic Page'
   url: '/generic-page'
 - title: 'Events'
-  url: '/post-list'
+  url: '/events'
