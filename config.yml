@@ -1,4 +1,4 @@
-baseURL: 'https://northwestchill.github.io/band/'
+baseURL: 'https://northwestchill.github.io/'
 languageCode: 'en-us'
 title: Northwest Chill
 theme: hugo-theme-massively
