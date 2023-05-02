@@ -5,3 +5,5 @@ items:
   url: 'events'
 - title: 'Calendar'
   url: 'calendar'
+- title: 'Reviews'
+  url: 'reviews'
