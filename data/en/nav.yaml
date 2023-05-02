@@ -4,4 +4,4 @@ items:
 - title: 'Events'
   url: 'band/events'
 - title: 'Calendar'
-  url: 'calendar'
+  url: 'band/calendar'

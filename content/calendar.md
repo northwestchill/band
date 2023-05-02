@@ -1,8 +1,9 @@
----
-title: "Calendar"
-date: 2023-04-25T09:08:02-07:00
-draft: false
-layout: "calendar"
----
++++
+title = "Calendar"
+date = 2023-04-25T09:08:02-07:00
+draft = false
+layout = "calendar"
+slug = 'events'
++++
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23616161&ctz=America%2FLos_Angeles&showTitle=0&showNav=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&src=anNib2V2ZUBnbWFpbC5jb20&src=N2JydG5xbmZ2bW1ha2JobTk2bDdkaHZvbnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZTM2NmN0Z3J0NXZudTRwN2UxbWM2NzFvZDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y29vcHFyZjVxNWdhODliOGY3M25qNzNjZDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZHQ4YWsxdGdmajdwbW5tMWJ0cmE2Zjh2bzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=cDVidjFlaThlb21xYTlqajhtMnMwOG03YmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZmFtaWx5MDI0MjE1MjgwMTEwOTEzMDg0OTFAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=NWppOTRybjJqcG5ka3Rnb3A4NGlnczVlY29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=NDlsdWdvcnVhY29tNGNxZnJ0MzlpdW9mY2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=c3UxN2JyNTF0N2piMTg3cGlmZjBpbmdiajhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZnM3cGJoZ2c1b2ZwNGFuNnI3ZDdqMDZqb2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=NTBoN2NubmxnZ3VvdTR0dmxrNGlmb2dnYThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=azhycDlwaGQzNzd2NTRjY2Z1Z3NvMnEwMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=M2IwOG5ua3Q3OGNwOGtvazVzdmJoYjl2NW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=bXJzYm9ldmVAZ21haWwuY29t&color=%234285F4&color=%237CB342&color=%2333B679&color=%237CB342&color=%23795548&color=%23E67C73&color=%23E4C441&color=%23D81B60&color=%237986CB&color=%230B8043&color=%23F6BF26&color=%234285F4&color=%23F09300&color=%237986CB&color=%23D81B60&color=%230B8043&color=%23B39DDB" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
