@@ -1,6 +1,6 @@
 items:
-- title: 'Generic Page'
-  url: 'generic-page'
+- title: 'About'
+  url: 'about'
 - title: 'Events'
   url: 'events'
 - title: 'Calendar'
