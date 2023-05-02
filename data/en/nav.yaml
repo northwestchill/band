@@ -1,7 +1,7 @@
 items:
 - title: 'Generic Page'
-  url: 'band/generic-page'
+  url: 'generic-page'
 - title: 'Events'
-  url: 'band/events'
+  url: 'events'
 - title: 'Calendar'
-  url: 'band/calendar'
+  url: 'calendar'
