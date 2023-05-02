@@ -1,7 +1,6 @@
 +++
 title = 'Calendar'
 slug = 'calendar'
-image = 'images/bg.jpg'
 description = 'A calendar.'
 disableComments = true
 +++
